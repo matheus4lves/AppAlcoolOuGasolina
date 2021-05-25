@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">App Alcool Ou Gasolina</string>
+    <string name="purpose">Saiba qual a melhor opção de abastecimento do seu carro!</string>
+    <string name="hint_alcohol">Preço álcool ex: 3.80</string>
+    <string name="hint_gasoline">Preço galosila ex: 5.70</string>
+    <string name="result">Resultado</string>
+    <string name="btn_calculate">Calcular</string>
+    <string name="logo_description">blue car with a blue strip in front of it which reads alcohol or gasoline</string>
 </resources>
