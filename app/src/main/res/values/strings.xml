@@ -4,6 +4,10 @@
     <string name="hint_alcohol">Preço álcool ex: 3.80</string>
     <string name="hint_gasoline">Preço galosila ex: 5.70</string>
     <string name="result">Resultado</string>
+    <string name="choose_alcohol">Melhor usar álcool.</string>
+    <string name="choose_gasoline">Melhor usar gasolina.</string>
     <string name="btn_calculate">Calcular</string>
     <string name="logo_description">blue car with a blue strip in front of it which reads alcohol or gasoline</string>
+    <string name="insert_alcohol_price">Insira o valor do álcool!</string>
+    <string name="insert_gasoline_price">Insira o valor da gasolina!</string>
 </resources>
